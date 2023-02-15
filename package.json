@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@walletconnect/web3-provider": "^1.8.0",
+    "web3": "^1.8.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
